@@ -1,5 +1,4 @@
 # fxt
-inline free text per sneaky use of function
 
 `npm install fxt --save`
 
