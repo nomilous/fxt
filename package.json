@@ -1,6 +1,6 @@
 {
   "name": "fxt",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "inline free text per sneaky use of function",
   "main": "index.js",
   "scripts": {

@@ -12,7 +12,7 @@ module.exports = function(fn) {
 
   .map(function(line) {
     var m = line.match(/^(\s*)/);
-    if (m && m[0].length < indent) indent = m[0].length;
+    if (m && m[0].length !== 0 && m[0].length < indent) indent = m[0].length;
     return line;
   })
 
