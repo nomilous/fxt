@@ -1,0 +1,19 @@
+{
+  "name": "fxt",
+  "version": "1.0.1",
+  "description": "inline free text per sneaky use of function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nomilous/fxt.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nomilous/fxt/issues"
+  },
+  "homepage": "https://github.com/nomilous/fxt"
+}
